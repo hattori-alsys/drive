@@ -1,0 +1,27 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.suggestSelection": "first",
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false
+    },
+    "files.trimTrailingWhitespace": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.enablePreview": false,
+
+    // Excel Viewer
+    "csv-preview.lineNumbers": "ordinal",
+    "csv-preview.resizeColumns": "all",
+
+    // Vetur
+    "vetur.ignoreProjectWarning": true,
+    "vetur.validation.template": false,
+
+    // Visual Studio IntelliCode
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
