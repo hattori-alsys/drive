@@ -1,6 +1,7 @@
 {
     "editor.renderWhitespace": "all",
     "editor.suggestSelection": "first",
+    "editor.tabSize": 2,
     "files.autoGuessEncoding": true,
     "files.autoSave": "afterDelay",
     "files.exclude": {
