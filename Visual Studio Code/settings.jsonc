@@ -19,6 +19,7 @@
   },
   "files.trimTrailingWhitespace": true,
   "security.workspace.trust.untrustedFiles": "open",
+  "window.restoreWindows": "none",
   "workbench.editor.enablePreview": false,
 
   // Excel Viewer
