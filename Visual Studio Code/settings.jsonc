@@ -14,11 +14,13 @@
   "files.autoGuessEncoding": true,
   "files.autoSave": "afterDelay",
   "files.exclude": {
+    "**/$RECYCLE.BIN": true,
     "**/.DS_Store": false,
     "**/.git": false,
     "**/.hg": false,
     "**/.svn": false,
-    "**/CVS": false
+    "**/CVS": false,
+    "**/System Volume Information": true
   },
   "files.trimTrailingWhitespace": true,
   "security.workspace.trust.untrustedFiles": "open",
