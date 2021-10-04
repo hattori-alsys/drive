@@ -5,6 +5,12 @@
   "[vb]": {
     "editor.tabSize": 4
   },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.insertSpaces": true,
   "editor.renderWhitespace": "all",
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
@@ -12,7 +18,7 @@
     "*.sp": "sql"
   },
   "files.autoGuessEncoding": true,
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onFocusChange",
   "files.exclude": {
     "**/$RECYCLE.BIN": true,
     "**/.DS_Store": false,
@@ -22,19 +28,11 @@
     "**/CVS": false,
     "**/System Volume Information": true
   },
-  "files.trimTrailingWhitespace": true,
   "security.workspace.trust.untrustedFiles": "open",
   "window.restoreWindows": "none",
   "workbench.editor.enablePreview": false,
 
   // Excel Viewer
   "csv-preview.lineNumbers": "ordinal",
-  "csv-preview.resizeColumns": "all",
-
-  // Vetur
-  "vetur.ignoreProjectWarning": true,
-  "vetur.validation.template": false,
-
-  // Visual Studio IntelliCode
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+  "csv-preview.resizeColumns": "all"
 }
