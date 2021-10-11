@@ -62,6 +62,9 @@
   "csv-preview.lineNumbers": "ordinal",
   "csv-preview.resizeColumns": "all",
 
+  // GitLens
+  "gitlens.hovers.currentLine.enabled": false,
+
   // PowerShell
   "powershell.codeFormatting.autoCorrectAliases": true,
   "powershell.codeFormatting.whitespaceBetweenParameters": true
