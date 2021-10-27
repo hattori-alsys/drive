@@ -44,11 +44,14 @@
   "files.autoSave": "onFocusChange",
   "files.exclude": {
     "**/$RECYCLE.BIN": true,
+    "**/**.lnk": true,
     "**/.DS_Store": false,
-    "**/.git": false,
+    "**/.git": true,
     "**/.hg": false,
     "**/.svn": false,
     "**/CVS": false,
+    "**/desktop.ini": true,
+    "**/LOST.DIR": true,
     "**/System Volume Information": true
   },
   "files.insertFinalNewline": true,
