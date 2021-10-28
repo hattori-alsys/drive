@@ -70,5 +70,6 @@
 
   // PowerShell
   "powershell.codeFormatting.autoCorrectAliases": true,
+  "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationAfterEveryPipeline",
   "powershell.codeFormatting.whitespaceBetweenParameters": true
 }
