@@ -45,6 +45,7 @@
   "files.exclude": {
     "**/$RECYCLE.BIN": true,
     "**/**.lnk": true,
+    "**/**.scc": true,
     "**/.DS_Store": false,
     "**/.git": true,
     "**/.hg": false,
