@@ -53,6 +53,7 @@
     "**/CVS": false,
     "**/desktop.ini": true,
     "**/LOST.DIR": true,
+    "**/node_modules": true,
     "**/System Volume Information": true
   },
   "files.insertFinalNewline": true,
